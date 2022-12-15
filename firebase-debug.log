@@ -1,0 +1,15 @@
+[debug] [2022-11-26T19:16:04.741Z] ----------------------------------------------------------------------
+[debug] [2022-11-26T19:16:04.744Z] Command:       /usr/local/bin/firebase /home/wtc/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase login
+[debug] [2022-11-26T19:16:04.745Z] CLI Version:   11.16.1
+[debug] [2022-11-26T19:16:04.745Z] Platform:      linux
+[debug] [2022-11-26T19:16:04.745Z] Node Version:  v16.16.0
+[debug] [2022-11-26T19:16:04.750Z] Time:          Sat Nov 26 2022 21:16:04 GMT+0200 (South Africa Standard Time)
+[debug] [2022-11-26T19:16:04.750Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as gfoxsim@gmail.com
+[debug] [2022-11-26T19:16:14.801Z] Error: Timed out.
+    at Timeout._onTimeout (/home/wtc/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.

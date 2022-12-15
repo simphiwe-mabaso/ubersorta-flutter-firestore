@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547250713887",
+    "project_id": "fir-flutter-ubersorta",
+    "storage_bucket": "fir-flutter-ubersorta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547250713887:android:9aadcf4bf42568d8692c2a",
+        "android_client_info": {
+          "package_name": "za.co.wethinkcode.widgets_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547250713887-v8kuvan5h14910es703q69q90tp51giu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5NJLjMvdC-ZCLAJBxt9Jglq3uE3RvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547250713887-v8kuvan5h14910es703q69q90tp51giu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
